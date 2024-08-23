@@ -1,5 +1,4 @@
 # Dobby
-Various works that are not specifically distinguished
 
 ## comtrade
 - UN Comtrade API, 무역 마이크로 데이터 다운로드
