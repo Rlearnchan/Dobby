@@ -1,4 +1,4 @@
-# Dobby: Zillow Time-on-Market Analyzer
+# Zillow Time-on-Market Analyzer
 
 이 저장소는 Zillow 부동산 데이터를 이용하여 매물의 판매 속도(Time-On-Market, TOM)를 예측하는 실험 코드입니다. 매물 설명과 속성 정보, 차별적 단어(discriminative words), 그리고 그 의미를 활용하여 LLM과 전통적 ML 모델을 비교합니다.
 
